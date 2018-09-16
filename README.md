@@ -37,8 +37,8 @@ Open browser and type in
 
 #### Example Usage:
 
-*   [/api/timestamp/2018-09-12](/api/timestamp/2018-09-12)
-*   [/api/timestamp/2018-09-12](/api/timestamp/1536736210866)
+*   [https://microservices-api.glitch.me/api/timestamp/2018-09-12](https://microservices-api.glitch.me/api/timestamp/2018-09-12)
+*   [https://microservices-api.glitch.me/api/timestamp/1536736210866](https://microservices-api.glitch.me/api/timestamp/1536736210866)
 
 #### Example Output:
 
@@ -54,7 +54,7 @@ Open browser and type in
 
 #### Example Usage:
 
-*   [/api/whoami](/api/whoami)
+*   [https://microservices-api.glitch.me/api/whoami](https://microservices-api.glitch.me/api/whoami)
 
 #### Output:
 
@@ -72,11 +72,13 @@ Open browser and type in
 
 ## Usage
 
-<form action="api/shorturl/new" method="POST" class="url_shortener"><label for="url_input">URL :</label> <input type="text" id="url_input" class="url_input" name="url" value="https://www.youtube.com/watch?v=Ouz4JGzXruI"> <input type="submit" value="POST URL" class="url_submit"></form>
+for more details visit
+
+*   [https://microservices-api.glitch.me/](https://microservices-api.glitch.me/)
 
 #### Example Usage:
 
-*   [/api/shorturl/fkK360](/api/shorturl/fkK360)
+*   [https://microservices-api.glitch.me/api/shorturl/fkK360](https://microservices-api.glitch.me/api/shorturl/fkK360)
 
 #### Will Redirect to:
 
@@ -113,19 +115,17 @@ or `GET /api/exercise/log?userId=R0mD7Gx14&from=2018-09-10&to=2018-09-10&limit=5
 
 ## Usage
 
-<form action="/api/exercise/new-user" method="POST" class="url_shortener"><label for="url_input">Create new user :</label> <input type="text" id="uname" class="url_input" name="username" placeholder="username" style="width: 40%;"> <input type="submit" value="Submit" class="url_submit"></form>
+for more details visit
 
-* * *
-
-<form action="/api/exercise/add" method="POST" class="url_shortener" style="text-align: center;"><label for="url_input" style="display: block;">Add new activity :</label> <input type="text" id="uid" class="url_input" name="userId" placeholder="*userId" style="width: 40%;"> <input type="text" id="desc" class="url_input" name="description" placeholder="*description" style="width: 40%;"> <input type="text" id="dur" class="url_input" name="duration" placeholder="*duration (mins)" style="width: 40%;"> <input type="text" id="date" class="url_input" name="date" placeholder="date (yyyy-mm-dd)" style="width: 40%;"> <input type="submit" value="Submit" class="url_submit" style="display: block; margin: auto;"></form>
+*   [https://microservices-api.glitch.me/](https://microservices-api.glitch.me/)
 
 #### Example Usage: Get user activity Logs
 
-*   [/api/exercise/log?userId=8KrDYrcVV](/api/exercise/log?userId=8KrDYrcVV)
+*   [https://microservices-api.glitch.me/api/exercise/log?userId=8KrDYrcVV](https://microservices-api.glitch.me/api/exercise/log?userId=8KrDYrcVV)
 
 #### Example Usage: Get all users
 
-*   [/api/exercise/users](/api/exercise/users)
+*   [https://microservices-api.glitch.me/api/exercise/users](https://microservices-api.glitch.me/api/exercise/users)
 
 ---
 
@@ -139,6 +139,8 @@ Post request with a body must be multipart/form-data.
 
 ## Usage
 
-<form action="/api/fileanalyse" enctype="multipart/form-data" method="POST" class="url_shortener"><label for="url_input">Upload a File :</label> <input type="file" id="inputfield" class="url_input" name="upfile" style="width: 40%;"> <input id="button" type="submit" value="Upload" class="url_submit"></form>
+for more details visit
+
+*   [https://microservices-api.glitch.me/](https://microservices-api.glitch.me/)
 
 * * *
